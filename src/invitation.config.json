@@ -1,0 +1,31 @@
+{
+  "person1": {
+    "name": "Sundas Fatima",
+    "initial": "S"
+  },
+  "person2": {
+    "name": "Waleed Abdullah",
+    "initial": "W"
+  },
+  "event": {
+    "type": "engagement",
+    "date": "2026-10-24",
+    "time": "17:00",
+    "timezone": "Asia/Karachi",
+    "timeLabel": "",
+    "location": "At home"
+  },
+  "content": {
+    "invitationMessage": "",
+    "thankYouMessage": ""
+  },
+  "design": {
+    "theme": "blush-champagne",
+    "customBackground": null,
+    "floralReference": "/assets/burgundy-botanical.webp"
+  },
+  "sharing": {
+    "siteUrl": "https://a-beautiful-beginning-floral-1022.toufeequmarbajwa.chatgpt.site",
+    "description": "With love and joy, you are cordially invited to celebrate our engagement and a beautiful new beginning."
+  }
+}
